@@ -20,3 +20,4 @@ For the purpose of this project, I used only 2 of the tables: Customer Flight Ac
 **POWER BI:** This is where most of the data transformation happened.
 * Added new column to help with the project analysis; 'Period' - used to distinguish customer enrolments before, during and after the promotional campaign.
 * Transformed data type for the column 'Dollar Cost Point Redeemed' to Currency ($ CAD), for for proper analysis.
+* Vizualized some Measures using DAX (eg, Customers Enroled, Average Monthly Flights, Standard Enrolments, 2018 Promotion Enrolments, Average Monthly Enrolments, Total Cancellations, Total Points Accumulated, and Total Points Redeemed)
