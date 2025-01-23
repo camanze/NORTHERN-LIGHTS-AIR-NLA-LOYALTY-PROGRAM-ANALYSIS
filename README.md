@@ -40,6 +40,8 @@ Below is a summary of the key insights from the data visualizations:
 
 ![Flight Activity](https://github.com/user-attachments/assets/3dc9eb72-c6be-4bec-ba37-578af921afdd)
 
+I added page navigation buttons on the top right end of the dashboards, to facilitate easy switching between the two dashboards.
+
 
 **LOYALTY HISTORY:** The Loyalty History Dashboard provides a detailed overview of customer enrollment trends, demographics, and cancellations, offering valuable insights into the performance and reach of the loyalty program.
 * **Enrollment Trends:** During the 2018 promotional period, a total of 971 new enrollments were recorded. However, the program also experienced a higher number of cancellations, with 2,067 customers opting to discontinue their membership. On average, 1,394.75 new enrollments were made per month, reflecting a steady rate of program engagement across the year.
