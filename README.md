@@ -55,6 +55,8 @@ I added page navigation buttons on the top right end of the dashboards, to facil
 
 ![Loyalty History](https://github.com/user-attachments/assets/b2b70e3a-0b3d-488c-81f5-f61bb1e42d57)
 
+[Click here](https://app.powerbi.com/view?r=eyJrIjoiNmM4NzEzOTQtMmFmNi00OWExLTkxYTgtZGQ0NWVhNjRiODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view the interactive Power BI design.
+
 **CONCLUSIONS**
 
 The Flight Activity Dashboard illustrates a dynamic period for the program, with notable increases in customer engagement, flight activity, and points accumulation, particularly during and after the promotional period. These trends suggest that the promotion was successful in driving customer participation and influencing flight patterns. The data indicates a healthy recovery in flight activity and points accumulation post-promotion, with a clear return to normal flight volumes and longer distances. 
